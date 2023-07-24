@@ -1,11 +1,13 @@
 # SRanipal-Eye-Tracking-Manual
 a guide on how to use the eye tracking capabilities of the VIVE Eye Pro headset.
 
-# EYE TRACKING manual WITH **SRanipalRunner** and **SteamVR** for **Unity**
+or
+
+# EYE TRACKING MANUAL with **SRanipalRunner** and **SteamVR** for **Unity**
 
 ---
 
-**NOTE: this manual is last updated on May the second 2023**
+**NOTE: this manual have been last updated on May the second 2023**
 
 ---
 
